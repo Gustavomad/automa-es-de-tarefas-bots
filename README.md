@@ -1,4 +1,3 @@
-Markdown
 # Automação de Tarefas com Python
 
 Este repositório contém um projeto de automação de processos desenvolvido com Python. O objetivo principal foi criar um robô capaz de interagir com o navegador e sistemas web para realizar tarefas repetitivas de forma automatizada.
